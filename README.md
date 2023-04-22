@@ -53,8 +53,8 @@ src="https://img.shields.io/github/followers/Omoleen?logo=github&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Omoleen/Food-delivery-service-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=Food-delivery-service-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omoleen/RealEstate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=RealEstate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Omoleen/Food-delivery-service-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=Food-delivery-service-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omoleen/RealEstate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=RealEstate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Omoleen/Algorithmic-Bot-Client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=Algorithmic-Bot-Client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omoleen/final-year-scraper" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=final-year-scraper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>

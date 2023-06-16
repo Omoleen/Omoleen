@@ -10,7 +10,7 @@ Welcome to my Github profile! I'm the backend developer you've been searching fo
 * 🖥️  See my portfolio at [My Portfolio](http://omoleemmanuelsportfolio.herokuapp.com/)
 * ✉️  You can contact me at [omoleoreoluwa@gmail.com](mailto:omoleoreoluwa@gmail.com)
 * 🚀  I'm currently working on [Food Delivery App Backend](http://food-delivery-service.herokuapp.com/swagger)
-* 🧠  I'm learning React.js
+<!-- * 🧠  I'm learning React.js -->
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Omoleen" target="_blank" rel="noreferrer"><img

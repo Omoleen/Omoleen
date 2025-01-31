@@ -1,22 +1,66 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel
 ======================================================================================================================================
 
-Full Stack Developer | Django | React.js | Machine learning
------------------------------------------------------------
+**Full-Stack Developer | AI Engineer | Cloud & DevOps Enthusiast**  
+---  
 
-Welcome to my Github profile! I'm the backend developer you've been searching for, with a penchant for building robust and scalable REST APIs and monolith apps using Django. I'm the go-to person for all your backend needs - I'm like a superhero, but with code instead of a cape. But wait, there's more! I also dabble in React.js for frontend development, because why not add some spice to the mix? I believe in building user-friendly and visually stunning interfaces that make users say "wow" and developers say "how did you do that?" When I'm not slaying code or saving the world from bad UX, you can find me making puns that are so bad, they're actually good. I'm like a walking dad joke generator, only instead of kids, I make code laugh. So, if you're looking for a backend developer who knows Django like the back of their hand, and can also whip up some sweet React.js goodness, then look no further. I'm the one you want on your team. Let's make some magic happen!
+🚀 Welcome to my GitHub! I'm a **backend-heavy full-stack developer** with a passion for **AI-driven applications, scalable cloud infrastructure, and DevOps automation**. I specialize in **Django, Next.js, Generative AI, and AWS**, building robust APIs and AI-powered applications.  
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://omoleemmanuelsportfolio.herokuapp.com/)
-* ✉️  You can contact me at [omoleoreoluwa@gmail.com](mailto:omoleoreoluwa@gmail.com)
-* 🚀  I'm currently working on [Food Delivery App Backend](http://food-delivery-service.herokuapp.com/swagger)
-<!-- * 🧠  I'm learning React.js -->
-* 🤝  I'm open to collaborating on interesting projects
+---
 
-<a href="https://www.github.com/Omoleen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Omoleen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## **💡 What I Do**
+- **Backend Engineering:** 🛠️ Building **scalable REST APIs** with **Django & Django REST Framework (DRF)**.  
+- **AI & LLM Integration:** 🤖 Developing **Generative AI agents**, **RAG-based chatbots**, and **AI-powered automation tools** using **GPT-4, LangChain, and Pinecone**.  
+- **Cloud & DevOps:** ☁️ Deploying applications with **AWS ECS (Fargate & EC2), Lambda, Terraform, and Docker**.  
+- **Security & Monitoring:** 🔒 Implementing **CI/CD pipelines with SonarQube, Trivy, and Sentry for secure and high-performance applications**.  
+- **Full-Stack Development:** 🎨 Creating **dynamic frontends with Next.js** while optimizing backend performance.  
 
-### Skills
+---
+
+## **🌍 Where I Am**
+📍 Based in **Toronto, Canada**  
+💼 Currently working on **AI-powered applications & cloud automation**  
+
+📩 Reach out: **[omoleoreoluwa@gmail.com](mailto:omoleoreoluwa@gmail.com)**  
+🌐 Portfolio: **[Coming Soon 🚀]**  
+
+---
+
+## **🛠️ Tech Stack**
+### **Core Technologies**
+<p align="left">
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React.js" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
+</p>
+
+### **AI & Machine Learning**
+<p align="left">
+<a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="36" height="36" alt="OpenAI GPT" /></a>
+<a href="https://python.langchain.com/" target="_blank"><img src="https://repository-images.githubusercontent.com/512402349/dc8db6ba-68b8-41c5-8b47-81ad2d5861f5" width="36" height="36" alt="LangChain" /></a>
+<a href="https://www.pinecone.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="36" height="36" alt="Pinecone" /></a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://images.seeklogo.com/logo-png/48/1/pinecone-logo-png_seeklogo-482364.png" width="36" height="36" alt="Pinecone" />
+</a>
+
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+<a href="https://aws.amazon.com/ecs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_EC2_logo.png" width="36" height="36" alt="AWS ECS" /></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/AWS_Lambda_logo.svg" width="36" height="36" alt="AWS Lambda" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://sonarqube.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SonarQube_logo.svg" width="36" height="36" alt="SonarQube" /></a>
+<a href="https://sentry.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sentry-logo.svg/1200px-Sentry-logo.svg.png" width="36" height="36" alt="Sentry" /></a>
+</p>
+
+
+<!--<a href="https://www.github.com/Omoleen" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Omoleen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-->
+
+<!--### Skills
 
 
 <p align="left">
@@ -36,25 +80,13 @@ src="https://img.shields.io/github/followers/Omoleen?logo=github&style=for-the-b
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+</p>-->
 
+---
 
-### Socials
+## **🔥 Let’s Connect**
+📩 **Email:** [omoleoreoluwa@gmail.com](mailto:omoleoreoluwa@gmail.com)  
+💼 **LinkedIn:** [Emmanuel Omole](https://www.linkedin.com/in/emmanuel-omole-oreoluwa/)  
+🐦 **Twitter:** [@nuel_2k](https://twitter.com/nuel_2k)  
 
-<p align="left"> <a href="https://www.github.com/Omoleen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emmanuel-omole-oreoluwa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nuel_2k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<!--<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Omoleen"><img src="https://github-readme-stats.vercel.app/api?username=Omoleen&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Omoleen's GitHub stats" /></a>
-
-<a href="http://www.github.com/Omoleen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omoleen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Omoleen/Food-delivery-service-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=Food-delivery-service-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omoleen/RealEstate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=RealEstate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Omoleen/Algorithmic-Bot-Client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=Algorithmic-Bot-Client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omoleen/final-year-scraper" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omoleen&repo=final-year-scraper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
